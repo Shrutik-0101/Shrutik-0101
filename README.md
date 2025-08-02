@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=20&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4b0082,100:00008b&height=120&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
 </p>
 
 <h1 align="center">Sup! I'm <span style="color:#4F00FF;">Shrutik</span></h1>
@@ -13,7 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=Shrutik-0101&label=Profile+Views&color=8A2BE2&style=flat" alt="Shrutik-0101" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
+</p>
 
 ### 👩‍💻 About Me
 
@@ -25,7 +27,9 @@
 - 💬 Always up for collabs, late-night dev convos, or building something cool with smart folks. If it’s tech, I’m in.  
 - 📬 Ping me: **shrutik.b.dev@gmail.com**
   
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
+</p>
 
 ### ⚡ Tech Stack & Tools
 <p>
@@ -86,7 +90,9 @@
 
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
+</p>
 
 ### 📊 GitHub Stats
 
@@ -95,7 +101,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutik-0101&layout=compact&theme=tokyonight&hide_border=true" height="180" width="300" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
+</p>
 
 ### 🔥 GitHub Streak
 
@@ -105,7 +113,9 @@
   <img src="https://streak-stats.demolab.com/?user=Shrutik-0101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
+</p>
 
 ### 🏆 Trophy
 
@@ -113,7 +123,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Shrutik-0101&theme=tokyonight&row=1&column=4&margin-w=20" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
+</p>
 
 <p align="center">
   <!-- Heatmap -->
@@ -131,7 +143,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
+</p>
 
 ### 🌐 Let's Connect
 

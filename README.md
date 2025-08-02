@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4b0082,100:00008b&height=20&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=20&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
 </p>
 
 <h1 align="center">Sup! I'm <span style="color:#4F00FF;">Shrutik</span></h1>
@@ -47,6 +47,12 @@
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Transformers-FF6F61?style=flat&logo=huggingface&logoColor=white" />
 
 <br>
 
@@ -66,6 +72,9 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
 
 <br>

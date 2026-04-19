@@ -20,7 +20,7 @@
 ### ⚡ Tech Stack & Tools
 <p>
 
-<b>💻 Languages:</b>
+<b>Languages:</b>
 &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -30,7 +30,7 @@
 
 <br>
 
-<b>📦 Libraries & Frameworks:</b>
+<b>Libraries & Frameworks:</b>
 &nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
@@ -46,7 +46,7 @@
 
 <br>
 
-<b>🗄️ Databases:</b>
+<b>Databases:</b>
 &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -54,7 +54,7 @@
 
 <br>
 
-<b>🔧 Tools:</b>
+<b>Tools:</b>
 &nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -69,7 +69,7 @@
 
 <br>
 
-<b>☁️ Cloud & DSA:</b>
+<b>Cloud & DSA:</b>
 &nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/DSA-F28D35?style=flat&logo=leetcode&logoColor=white" />
@@ -99,11 +99,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shrutik-0101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
@@ -139,7 +134,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:00008b&height=150&section=footer&fontColor=ffffff" style="width: 1500px;"/>
-</p>
 

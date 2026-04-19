@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shrutik-0101&label=Profile+Views&color=8A2BE2&style=flat" alt="Shrutik-0101" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
 </p>
 

@@ -1,21 +1,15 @@
 <!-- Profile Header -->
 <h1 align="center">Sup! I'm <span style="color:#4F00FF;">Shrutik</span></h1>
-<h3 align="center">CS Undergrad | Cross-Stack Learner | Open Source Enthusiast</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&duration=900&color=8A2BE2&center=true&vCenter=true&width=1000&lines=%E2%9C%A8+AI+Enthusiast+%F0%9F%A7%A0;%F0%9F%94%8D+Deep+Learning+Explorer;%F0%9F%8E%93+B.Tech+CS+%40+Silicon+University;%F0%9F%9B%A0%EF%B8%8F+Smart+Systems+Builder" />
-</p>
+<h3 align="center">CS Undergrad | Polymath Ascendant</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
 </p>
 
 ### 👩‍💻 About Me
-
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at _Silicon University_ — building a rock-solid foundation in intelligent systems, algorithms, and all things code.  
-- 🤖 Currently deep-diving into **LLMs**, **Transformers**, and how machines *actually* learn from pixels to predictions.  
-- 🚀 On a mission to master **AI**, **Machine Learning**, and **Deep Learning** from classic models to bleeding-edge neural networks.  
-- 🔬 Turning theory into impact through **open-source** and personal projects that solve real-world problems, one model and dataset at a time.  
-- 🏁 Passionate **Competitive Programmer**  regularly grinding problems on **LeetCode**, **Codeforces**, and beyond.  
+ 
+- 🤖 Currently deep-diving into **AI Research**, and how machines *actually* learn from pixels to predictions.  
+- 🏁 Competitive Programmer — decoding problems, optimizing hard, and climbing ranks  
 - 💬 Always up for collabs, late-night dev convos, or building something cool with smart folks. If it’s tech, I’m in.  
 - 📬 Ping me: **shrutik.b.dev@gmail.com**
   
@@ -121,16 +115,16 @@
 
 <p align="center">
   <!-- Heatmap -->
-  <img src="https://leetcard.jacoblin.cool/AztecMirage?ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Shrutik0101?ext=contest" />
 </p>
 
 <p align="center">
   <!-- Badges -->
-  <a href="https://leetcode.com/shrutik-0101">
+  <a href="https://leetcode.com/Shrutik0101">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white" />
   </a>
   &nbsp;&nbsp&nbsp;
-  <a href="https://codeforces.com/profile/shrutik-0101">
+  <a href="https://codeforces.com/profile/BlueSlayr">
     <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
   </a>
 </p>
@@ -148,10 +142,6 @@
   &nbsp;&nbsp&nbsp;
   <a href="https://discord.com/users/758741013203386438">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-  </a>
-  &nbsp;&nbsp&nbsp;
-  <a href="https://github.com/Shrutik-0101">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 

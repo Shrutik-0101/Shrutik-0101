@@ -8,8 +8,8 @@
 
 ### 👩‍💻 About Me
  
-- 🤖 Currently deep-diving into **AI Research**, and how machines *actually* learn from pixels to predictions.  
-- 🏁 Competitive Programmer — decoding problems, optimizing hard, and climbing ranks  
+- 🤖 Currently deep-diving into **AI Research**, and how machines actually learn from pixels to predictions.  
+- 🏁 Competitive Programmer...decoding problems, optimizing hard, and climbing ranks  
 - 💬 Always up for collabs, late-night dev convos, or building something cool with smart folks. If it’s tech, I’m in.  
 - 📬 Ping me: **shrutik.b.dev@gmail.com**
   
@@ -114,12 +114,10 @@
 </p>
 
 <p align="center">
-  <!-- Heatmap -->
   <img src="https://leetcard.jacoblin.cool/Shrutik0101?ext=contest" />
 </p>
 
 <p align="center">
-  <!-- Badges -->
   <a href="https://leetcode.com/Shrutik0101">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white" />
   </a>

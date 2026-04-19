@@ -1,8 +1,4 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:4b0082,100:00008b&height=120&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
-</p>
-
 <h1 align="center">Sup! I'm <span style="color:#4F00FF;">Shrutik</span></h1>
 <h3 align="center">CS Undergrad | Cross-Stack Learner | Open Source Enthusiast</h3>
 <p align="center">

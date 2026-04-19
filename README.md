@@ -84,6 +84,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrutik-0101&show_icons=true&theme=tokyonight&hide_border=true" height="180" width="400" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutik-0101&layout=compact&theme=tokyonight&hide_border=true" height="180" width="300" />
 </p>
 
@@ -103,11 +104,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>
 </p>
 
-### 🏆 Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shrutik-0101&theme=tokyonight&row=1&column=4&margin-w=20" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4b0082,100:00008b&height=12&section=header&fontSize=20&fontColor=ffffff" style="width: 1500px;"/>

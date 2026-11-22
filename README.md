@@ -4,7 +4,7 @@
 
 <h1 align="center">Your friendly neighbourhood developer</h1>
 
-### the lore so far
+### The lore so far
 
 CS undergrad who's way too curious about how things work.
 
@@ -15,7 +15,7 @@ CS undergrad who's way too curious about how things work.
 
 ---
 
-### when I code, I rely on
+### When I code, I rely on
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,nodejs,tensorflow,pytorch,sklearn,postgres,mongodb,mysql,aws,docker,linux,git,github,vscode,neovim,opencv,postman&theme=dark" />
@@ -23,7 +23,7 @@ CS undergrad who's way too curious about how things work.
 
 ---
 
-### proof i occasionally touch grass 
+### Proof I occasionally touch grass 
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrutik-0101&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FF6A00&text_color=FFD580" />
@@ -32,7 +32,7 @@ CS undergrad who's way too curious about how things work.
 
 ---
 
-### the addiction is documented
+### The addiction is documented
 
 <p align="center">
   <img width="95%" src="https://streak-stats.demolab.com/?user=Shrutik-0101&hide_border=true&background=0D1117&ring=FF6A00&fire=FFB000&currStreakLabel=FFD580&sideLabels=FFD580&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" />
@@ -44,7 +44,7 @@ CS undergrad who's way too curious about how things work.
 
 ---
 
-### don't be a stranger, pal
+### Don't be a stranger, pal
 
 <p align="center">
   <a href="https://www.linkedin.com/in/b-shrutik-9520a0264/">

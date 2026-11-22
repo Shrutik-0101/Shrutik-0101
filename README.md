@@ -1,7 +1,7 @@
 <!-- STARK MODE: ON -->
 
 <p align="center">
-  <img src="fakeme.png" width="1300px" height="400px" />
+  <img src="fakeme.png" width="1500px" height="450px" />
 </p>
 
 <h1 align="center">Hey, I'm <span style="color:#FF8C00;">Shrutik.</span></h1>

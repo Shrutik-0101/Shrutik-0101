@@ -1,37 +1,24 @@
-<!-- STARK MODE: ON -->
-
 <p align="center">
   <img src="fakeme.png" width="1500px" height="450px" />
 </p>
 
-<h1 align="center">Hey, I'm <span style="color:#FF8C00;">Shrutik.</span></h1>
-<h3 align="center">CS Undergrad | Builder | Occasional Mad Scientist</h3>
+<h1 align="center">Your friendly neighbourhood developer</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-COOKING-FF6A00?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/FUEL-COFFEE-FFB000?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/MODE-BUILD-FFD580?style=flat-square&labelColor=0D1117" />
-</p>
-
----
-
-### so... who's this guy?
+### the lore so far
 
 CS undergrad who's way too curious about how things work.
 
-- 🤖 Exploring AI, ML & intelligent systems.
-- 🏁 Competitive programming addict.
-- ⚡ Building things, breaking things, fixing things.
-- 🧠 Always collecting ideas bigger than my RAM.
-
-**Currently:** Turning caffeine into questionable engineering decisions.
+- Following random curiosities down surprisingly technical rabbit holes.
+- Turning "wouldn't it be cool if..." into actual projects.
+- Always up for collabs, late-night dev convos, or building something cool with smart folks. If it’s tech, I’m in.  
+- Ping me: **shrutik.b.dev@gmail.com**
 
 ---
 
 ### when I code, I rely on
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,nodejs,tensorflow,pytorch,sklearn,numpy,pandas,postgres,mongodb,mysql,aws,docker,linux,git,github,vscode,neovim,opencv,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,nodejs,tensorflow,pytorch,sklearn,postgres,mongodb,mysql,aws,docker,linux,git,github,vscode,neovim,opencv,postman&theme=dark" />
 </p>
 
 ---
@@ -57,40 +44,20 @@ CS undergrad who's way too curious about how things work.
 
 ---
 
-### brain.exe is working
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shrutik0101?theme=dark&ext=contest" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/Shrutik0101">
-    <img src="https://img.shields.io/badge/LEETCODE-FFB000?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/BlueSlayr">
-    <img src="https://img.shields.io/badge/CODEFORCES-FF6A00?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### don't be a stranger, pal
 
 <p align="center">
   <a href="https://www.linkedin.com/in/b-shrutik-9520a0264/">
-    <img src="https://img.shields.io/badge/LINKEDIN-FFB000?style=flat-square&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://discord.com/users/758741013203386438">
-    <img src="https://img.shields.io/badge/DISCORD-FF6A00?style=flat-square&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:shrutik.b.dev@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FFD580?style=flat-square&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <i>Genius? Debatable. Builder? Absolutely.</i>
-  <br/>
-  <sub>MADE WITH COFFEE & QUESTIONABLE IDEAS.</sub>
-</p>
 
